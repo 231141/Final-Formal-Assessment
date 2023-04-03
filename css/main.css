@@ -14,8 +14,26 @@
     border-color: black ;
 }
 
+.image {
+    width: 400px;
+    height: 200px;
+    
+    background-image: url("../assets/header.jpg");
+    margin: 0 auto;
+    margin-bottom: 10px;
+    background-size: cover;
+    background-image: center;}
 
-
+.image1 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-image: url("../assets/old_eleven.png");
+    margin: 0 auto;
+    margin-bottom: 10px;
+    background-size: cover;
+    background-image: center;
+}
 .input-el{
     width:90%;
     height: 35px;
@@ -23,9 +41,11 @@
     padding-left: 15px;
     border-radius: 20px;
     border: 20px;
-    border-color: black;
+    border-color: #2b2b2b;
     font-family: 'Playfair Display', serif;
-    color: blueviolet;
+    
+    background-color: rgb(199, 192, 192);
+    color: black;
 }
 
 
