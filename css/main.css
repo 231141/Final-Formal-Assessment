@@ -1,17 +1,3 @@
-form{
-    width: 30%;
-    margin: 0 auto;
-    margin-top: 100px;
-    background-color: white;
-    padding-left: 5%;
-    padding-right: 5%;
-    padding-top: 25px;
-    padding-bottom: 40px;
-    border-radius:30%;
-    color: blueviolet;
-    border: 150px;
-    border-color: black ;
-}
 
 .border{  
     width: 30%;
@@ -25,7 +11,10 @@ form{
     border-radius: 5%;
     color: blueviolet;
     border: 150px;
-    border-color: black ;}
+    border-color: black ;
+}
+
+
 
 .input-el{
     width:90%;
@@ -35,13 +24,10 @@ form{
     border-radius: 20px;
     border: 20px;
     border-color: black;
-   
+    font-family: 'Playfair Display', serif;
     color: blueviolet;
 }
 
-.text{
-    border: ;
-}
 
 select, button{
     width: 95% !important;
@@ -56,11 +42,16 @@ nav{
 nav h3{
     color: white;
     padding-top: 20px;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Playfair Display', serif;
     margin-left: 100px
    
 }
 
-select h1{
-    
+footer {
+    height: 100px;
+    background-color: #2b2b2b;
+    color: White;
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 100px !important;
 }
